@@ -1,3 +1,3 @@
-virtualenv venv --distribute
+virtualenv venv
 . venv/bin/activate 
 pip3 install -r requirements.txt
